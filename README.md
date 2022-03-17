@@ -1,1 +1,2 @@
-# ONE-LINEAR-CODE-TO-ANOTHER-USING-SAGEMATH-WITH-PYTHON
+### ONE-LINEAR-CODE-TO-ANOTHER-USING-SAGEMATH-WITH-PYTHON
+The code based cryptosystems generally employ Linear Block codes to create quantum resistant cryptographic schemes. Most of them are vulnerable to structural attacks as the properties of the code can be deciphered from the information. In order to avoid this, multiple codes can be used in a cryptographic scheme to provide more randomness thereby increasing the security. The codes belonging to a specific Code Equivalence Class has certain properties with regard to their generator matrices, which can be used to convert them from one code to another internally. It can be used to create more secure PQC systems which can resist structural attacks
